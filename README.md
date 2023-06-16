@@ -1,3 +1,13 @@
+# Desafio Wordle - Mario Hinostroza
+
+Este es un proyecto basado en una prueba técnica de Desarrollador Frontend. Se encuentra realizado con Next JS, Typescript, React y Tailwind
+
+
+
+## Demo
+
+https://dd3app.vercel.app
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
